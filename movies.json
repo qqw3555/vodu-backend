@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "فيلم تجريبي 1",
+    "category": "أكشن",
+    "year": "2026",
+    "image": "https://via.placeholder.com/300x450",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "فيلم تجريبي 2",
+    "category": "دراما",
+    "year": "2026",
+    "image": "https://via.placeholder.com/300x450",
+    "link": "#"
+  }
+]
