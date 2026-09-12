@@ -3,7 +3,7 @@ from flask_cors import CORS
 import json
 import os
 
-app = Flask(name)
+app = Flask(__name__)
 CORS(app)  # هذا السطر مهم جداً حتى يسمح لموقعك على Netlify يسحب البيانات بدون مشاكل حظر
 
 @app.route('/')
